@@ -1,6 +1,11 @@
 #include "mbed.h"
 #include "arm_book_lib.h"
 
+//cinco.
+/*
+
+*/
+
 int main()
 {
     // Definodo D2(un enum de mbed hacia de dir. mem. del pin D2) como gasDetector de tipo DigitalIn.
@@ -18,7 +23,7 @@ int main()
 
     // Las direcciones de memroia de los puertos estan en definidas en ST en un struct.
     // hay dos struct que definer numeros y con ello se obtiene los puertos necesarios.
-    // DigitalIn.h esta en mbeg_gpio en una clase de gpio define como pines de proposito general y v inciando constructores
+    // DigitalIn.h esta en mbed_gpio en una clase de gpio define como pines de proposito general y v inciando constructores
     // segun los argumetos
 
 
@@ -47,3 +52,4 @@ int main()
 // la compilacion.
 
 //En "compile_commands.json" estan los comandos para la commpilacion.
+
