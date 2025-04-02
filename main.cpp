@@ -1,9 +1,9 @@
 #include "mbed.h"
 #include "arm_book_lib.h"
 
-//cinco.
 /*
-
+Fuentes
+Wawryczuk
 */
 
 int main()
